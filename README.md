@@ -1,6 +1,10 @@
 
 # Rapidnui: Rongorongo Symbol Analysis
 
+<div style="text-align: center;">
+<img src="rapidnui-project-logo.png" alt="logo" width="200"/>
+</div>
+
 ## Project Background
 The *Rongorongo* script from Easter Island has long intrigued researchers due to its complex symbols and undeciphered status. Despite extensive study, little is understood about its function or meaning. This project, **Rapidnui**, was created to apply modern machine learning and image processing techniques to analyze the script's symbols. Using methods such as contour detection and clustering, we aim to identify unique glyphs, study their relationships, and explore possible symbolic or proto-linguistic elements in *Rongorongo*.
 
